@@ -1,3 +1,19 @@
+###---------------------------------------------------------------------------------------------------------###
+01_LST_processing_timeseries.py
+
+This script implements the multi‑year LST processing workflow for Dhaka
+(2014–2024), including cloud masking, radiometric calibration, spectral
+indices, emissivity estimation, and single‑channel LST retrieval.
+
+The workflow adapts the semi‑automatic Landsat time‑series approach
+developed by Mohiuddin & Mund (2024) for Phnom Penh, which builds on
+established methods for radiometric calibration, emissivity estimation,
+and LST retrieval (Nill et al., 2019; Jiménez‑Muñoz et al., 2008; Sobrino
+et al., 2008; Carlson & Ripley, 1997).
+
+All Dhaka‑specific modifications, including additional indices, seasonal
+compositing, and export routines, were implemented by Mahbubul Alam.
+###-----------------------------------------------------------------------------------------------------------------###
 import ee, geemap
 ee.Authenticate()
 ee.Initialize(project='ee-sanim')
