@@ -1,3 +1,18 @@
+"""
+03_zonal_statistics_LST.py
+
+This script extracts slum‑level zonal statistics for Dhaka’s informal
+settlements, including mean LST trend, MK Z‑score, Sen slope, and
+hotspot proportions.
+
+The workflow extends the LST trend outputs from Script 02 and applies
+polygon‑based zonal statistics to quantify heat exposure at the
+settlement scale.
+
+All zonal statistics logic, slum‑level aggregation, and visualization
+components were implemented by Mahbubul Alam.
+"""
+
 import ee, geemap
 ee.Authenticate()
 ee.Initialize(project='ee-sanim')
