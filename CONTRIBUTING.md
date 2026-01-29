@@ -1,7 +1,7 @@
 # Contributing Guidelines
 
 Thank you for your interest in contributing to this project.
-This repository supports the Master’s thesis:
+This repository supports the Master’s Scientific Report:
 “Urban Heat Vulnerability in Dhaka (2014–2024)” by Mahbubul Alam.
 
 ## How You Can Contribute
