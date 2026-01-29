@@ -1,6 +1,19 @@
-"""
+-------------------------------------------------------------------------
 02_LST_trend_hotspot_analysis.py
 
+This script computes long‑term thermal trends (2014–2024) using the
+Theil–Sen slope estimator and Mann–Kendall Z‑score, and identifies
+thermal hotspots based on percentile thresholds.
+
+The trend analysis follows established non‑parametric methods widely used
+in environmental time‑series research (Sen, 1968; Mann, 1945; Kendall,
+1975). Hotspot detection uses quantile‑based classification approaches
+commonly applied in climate‑risk mapping (Nelson & Chomitz, 2011).
+
+Dhaka‑specific implementation, including raster preparation, trend
+stacking, and hotspot classification, was developed by Mahbubul Alam.
+""
+----------------------------------------------------------------------------------------------------------------------
 This script performs long-term LST trend analysis for Dhaka using the
 official Landsat Collection 2 LST product. It computes:
 
