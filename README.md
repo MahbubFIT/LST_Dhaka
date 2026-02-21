@@ -26,11 +26,7 @@ The **fully cleaned, final, and reproducible workflow** — including all notebo
 
 ## Purpose of This Repository
 
-This draft repository serves three goals:
 
-- **Transparency** – to show the structure of the analytical workflow used in the report.  
-- **Documentation** – to outline how Landsat/MODIS LST, trend analysis, hotspot detection, and poverty‑heat linkage were implemented.  
-- **Reproducibility (Final Version)** – the complete, cleaned workflow will be delivered with the final submission.
 
 ---
 
