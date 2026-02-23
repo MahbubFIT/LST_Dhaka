@@ -30,7 +30,6 @@ The analysis follows a multi‑stage workflow consistent with the scientific rep
 - MODIS‑based long‑term validation  
 
 ### 3. Hotspot Detection
-- Getis‑Ord Gi* statistic  
 - Hotspot and cold‑spot mapping  
 - 10‑year hotspot persistence  
 
