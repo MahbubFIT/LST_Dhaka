@@ -151,7 +151,7 @@ pip install -r requirements.txt
 ## 📚 Citation
 If you use this workflow, please cite:
 
-**Alam, M. (2026). Mapping the Heat Divide: Spatio‑Temporal Analysis of Thermal Hotspots and Socio‑Economic Inequality in Dhaka (2014–2024). Master’s Thesis, HNEE.**
+**Alam, M. (2026). Mapping the Heat Divide: Spatio‑Temporal Analysis of Thermal Hotspots and Socio‑Economic Inequality in Dhaka (2014–2024). Master’s project, HNEE.**
 
 ---
 
